@@ -30,7 +30,7 @@ TEMPLATES_DIR = os.path.join(BASE_DIR,'templates')
 SECRET_KEY = '2)$7tj3my34l$#1m5mn2!=iag+9+w=y@vzg2spib!1qrmk4q6q'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1','reviewanalys.herokuapp.com']
 
